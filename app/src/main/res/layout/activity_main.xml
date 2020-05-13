@@ -26,6 +26,7 @@
         android:layout_marginLeft="8dp"
         android:layout_marginTop="248dp"
         android:ems="10"
+        android:text="@string/main_pushUrl"
         android:inputType="textPersonName"
         app:layout_constraintStart_toEndOf="@+id/textView"
         app:layout_constraintTop_toTopOf="parent" />
