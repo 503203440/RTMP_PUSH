@@ -2,5 +2,5 @@
     <string name="app_name">RTMP_PUSH</string>
     <string name="main_textView">rtmp推流地址</string>
     <string name="main_btn">开始推流</string>
-    <string name="main_pushUrl">http://xiongxiaoxiong.online/live/gpai/livestream?token=123</string>
+    <string name="main_pushUrl_placeholder"></string>
 </resources>
