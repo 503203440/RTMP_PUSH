@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RTMP_PUSH</string>
+    <string name="main_textView">rtmp推流地址</string>
+    <string name="main_btn">开始推流</string>
+</resources>
